@@ -1,7 +1,7 @@
 ### Hi there 👋
-May your life be filled with good things !
-I am JaeHa Lee who is interseted in Computer Vision from South Korea.
-
+May your life be filled with good things !   
+I am JaeHa Lee who is interseted in Computer Vision from South Korea.   
+I will remain as an artificial intelligence programmer who changed the world.   
 
 <!--
 **CV-JaeHa/CV-JaeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
