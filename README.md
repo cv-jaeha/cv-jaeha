@@ -3,8 +3,8 @@ May your life be filled with good things !
 I am JaeHa Lee who is interseted in Computer Vision from South Korea.   
 I will remain as an artificial intelligence programmer who changed the world.   
 
-https://img.shields.io/twitter/url?color=0080FF&label=%EC%9E%AC%20%ED%95%98&logo=FaceBook&logoColor=0080FF&style=social&url=https%3A%2F%2Fwww.facebook.com%2FJaeHa0412
-<!--
+[![Twitter](https://img.shields.io/twitter/url?color=0080FF&label=%EC%9E%AC%20%ED%95%98&logo=FaceBook&logoColor=0080FF&style=social&url=https%3A%2F%2Fwww.facebook.com%2FJaeHa0412)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fsimpleicons.org%2Ficons%2Ffacebook.svg)
+
 **CV-JaeHa/CV-JaeHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
