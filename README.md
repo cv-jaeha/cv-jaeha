@@ -5,4 +5,4 @@ I will remain as an artificial intelligence programmer who changed the world.
    
    
 ### Contacts
-[![FaceBook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=White&link=https://www.facebook.com/JaeHa0412)](https://www.facebook.com/JaeHa0412)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taki041210@gmail.com)](mailto:taki041210@gmail.com)
