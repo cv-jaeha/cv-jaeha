@@ -1,3 +1,6 @@
+# 이재하(Lee, Jae Ha) - DSM 6기   
+
+## InterDuce
 ### Hi there 👋
 May your life be filled with good things !   
 I am JaeHa Lee who is interseted in Computer Vision from South Korea.   
@@ -8,6 +11,20 @@ I will remain as an artificial intelligence programmer who changed the world.
 저는 이재하 입니다. 한국에서 컴퓨터 비전에 관심이 있어 공부하고 있는 학생입니다.   
 세상을 변화시킨 인공지능 프로그래머로 남는것이 목표입니다.   
 
+## Technology Stack   
+![](https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
+</a>
+![](https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white)
+</a>
+![](https://img.shields.io/badge/Pytorch-11B48A?style=flat-square&logo=pytorch&color=FF4000&logoColor=white)
+</a>
+![](https://img.shields.io/badge/Tensorflow-11B48A?style=flat-square&logo=tensorflow&color=yellow&logoColor=white)
+</a>
+![](https://img.shields.io/badge/Keras-11B48A?style=flat-square&logo=Keras&color=D00000&logoColor=white)
+</a>
+![](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
+</a>   
+
 ### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taki041210@gmail.com)](mailto:taki041210@gmail.com)
 </a>
@@ -16,5 +33,4 @@ I will remain as an artificial intelligence programmer who changed the world.
 <a href="https://www.instagram.com/jae_ha_0412/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jae_ha_0412/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
