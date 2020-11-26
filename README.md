@@ -12,17 +12,17 @@ I will remain as an artificial intelligence programmer who changed the world.
 세상을 변화시킨 인공지능 프로그래머로 남는것이 목표입니다.   
 
 ## Technology Stack   
-![](https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
+![C](https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
 </a>
-![](https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white)
 </a>
-![](https://img.shields.io/badge/Pytorch-11B48A?style=flat-square&logo=pytorch&color=FF4000&logoColor=white)
+![Pytorch Badge](https://img.shields.io/badge/Pytorch-11B48A?style=flat-square&logo=pytorch&color=FF4000&logoColor=white)
 </a>
-![](https://img.shields.io/badge/Tensorflow-11B48A?style=flat-square&logo=tensorflow&color=yellow&logoColor=white)
+![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-11B48A?style=flat-square&logo=tensorflow&color=yellow&logoColor=white)
 </a>
-![](https://img.shields.io/badge/Keras-11B48A?style=flat-square&logo=Keras&color=D00000&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-11B48A?style=flat-square&logo=Keras&color=D00000&logoColor=white)
 </a>
-![](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
+![OpenCV Badge](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
 </a>   
 
 ### Contacts
@@ -33,4 +33,6 @@ I will remain as an artificial intelligence programmer who changed the world.
 <a href="https://www.instagram.com/jae_ha_0412/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jae_ha_0412/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>   
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+![Discord Badge](https://img.shields.io/badge/Discord-11B48A?style=flat-square&logo=Discord&color=819FF7&logoColor=white)
