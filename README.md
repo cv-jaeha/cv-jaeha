@@ -28,13 +28,13 @@ I will remain as an artificial intelligence programmer who changed the world.
 ### Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taki041210@gmail.com)](mailto:taki041210@gmail.com)
 </a>
+[![Naver Badge](https://img.shields.io/badge/Naver-11B48A?style=flat-square&logo=Naver&color=Green&logoColor=white&link=mailto:taki041210@naver.com)](mailto:taki041210@naver.com)
+</a>
 [![Facebook Badge](https://img.shields.io/badge/FaceBook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JaeHa0412)](https://www.facebook.com/JaeHa0412)
 </a>
 <a href="https://www.instagram.com/jae_ha_0412/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jae_ha_0412/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-[![Naver Badge](https://img.shields.io/badge/Naver-11B48A?style=flat-square&logo=Naver&color=Green&logoColor=white&link=mailto:taki041210@naver.com)](mailto:taki041210@naver.com)
 </a>
 ![Discord Badge](https://img.shields.io/badge/Discord-11B48A?style=flat-square&logo=Discord&color=819FF7&logoColor=white)
