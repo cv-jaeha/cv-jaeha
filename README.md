@@ -35,4 +35,6 @@ I will remain as an artificial intelligence programmer who changed the world.
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jae_ha_0412/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+[![Naver Badge](https://img.shields.io/badge/Naver-11B48A?style=flat-square&logo=Naver&color=Green&logoColor=white&link=mailto:taki041210@naver.com)](mailto:taki041210@naver.com)
+</a>
 ![Discord Badge](https://img.shields.io/badge/Discord-11B48A?style=flat-square&logo=Discord&color=819FF7&logoColor=white)
