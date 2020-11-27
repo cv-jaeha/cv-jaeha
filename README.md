@@ -11,6 +11,8 @@ I will remain as an artificial intelligence programmer who changed the world.
 저는 이재하 입니다. 한국에서 컴퓨터 비전에 관심이 있어 공부하고 있는 학생입니다.   
 세상을 변화시킨 인공지능 프로그래머로 남는것이 목표입니다.   
 
+[![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa)](https://github.com/anuraghazra/github-readme-stats)   
+
 ## Technology Stack   
 ![C](https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
 </a>
@@ -24,8 +26,6 @@ I will remain as an artificial intelligence programmer who changed the world.
 </a>
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
 </a>   
-
-[![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taki041210@gmail.com)](mailto:taki041210@gmail.com)
