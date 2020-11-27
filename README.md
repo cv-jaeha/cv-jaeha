@@ -25,6 +25,8 @@ I will remain as an artificial intelligence programmer who changed the world.
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
 </a>   
 
+![JaeHa's GitHub Stats](https://github-stats.vercel.app/api?username=CV-JaeHa&show icons=trues&hide=["issues"])
+
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taki041210@gmail.com)](mailto:taki041210@gmail.com)
 </a>
