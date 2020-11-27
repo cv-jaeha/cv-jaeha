@@ -14,7 +14,7 @@ I will remain as an artificial intelligence programmer who changed the world.
 [![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa)](https://github.com/anuraghazra/github-readme-stats)   
 
 ## Technology Stack   
-![C](https://img.shields.io/badge/C / C++-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
+![C](https://img.shields.io/badge/C,C++-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
 </a>
 ![Python Badge](https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white)
 </a>
