@@ -1,6 +1,6 @@
 # 이재하(Lee, Jae Ha) - DSM 6기   
 
-## InterDuce
+## IntroDuce
 ### Hi there 👋
 May your life be filled with good things !   
 I am JaeHa Lee who is interseted in Computer Vision from South Korea.   
