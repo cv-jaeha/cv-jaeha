@@ -16,15 +16,11 @@ I will remain as an artificial intelligence programmer who changed the world.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV-JaeHa&hide_border=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technology Stack   
-![C](https://img.shields.io/badge/C,C++-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
-</a>
 ![Python Badge](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 </a>
+![C](https://img.shields.io/badge/C,C++-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
+</a>
 ![Pytorch Badge](https://img.shields.io/badge/Pytorch-11B48A?style=flat-square&logo=pytorch&color=FF4000&logoColor=white)
-</a>
-![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-11B48A?style=flat-square&logo=tensorflow&color=yellow&logoColor=white)
-</a>
-![Keras Badge](https://img.shields.io/badge/Keras-11B48A?style=flat-square&logo=Keras&color=D00000&logoColor=white)
 </a>
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
 </a>   
@@ -36,9 +32,3 @@ I will remain as an artificial intelligence programmer who changed the world.
 </a>
 [![Facebook Badge](https://img.shields.io/badge/FaceBook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/JaeHa0412)](https://www.facebook.com/JaeHa0412)
 </a>
-<a href="https://www.instagram.com/jae_ha_0412/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jae_ha_0412/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-[![Discord Badge](https://img.shields.io/badge/Discord-11B48A?style=flat-square&logo=Discord&color=819FF7&logoColor=white)](https://discord.com/channels/@재하#1673)
