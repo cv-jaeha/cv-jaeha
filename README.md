@@ -12,7 +12,7 @@ I will remain as an artificial intelligence programmer who changed the world.
 세상을 변화시킨 인공지능 프로그래머로 남는것이 목표입니다.   
 
 [![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa&show_icons=true&title_color=81F7F3&text_color=FFFFFF&bg_color=21262D&hide=prs,issues&hide_border=False&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV-JaeHa&hide_border=true&layout=compact&title_color=81F7F3&text_color=FFFFFF&bg_color=21262D&hide=shell&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+</a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV-JaeHa&hide_border=true&layout=compact&title_color=81F7F3&text_color=FFFFFF&bg_color=21262D&hide=shell,jupyter%20notebook&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technology Stack   
 ![Python Badge](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
