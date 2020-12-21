@@ -11,8 +11,8 @@ I will remain as an artificial intelligence programmer who changed the world.
 저는 이재하 입니다. 한국에서 컴퓨터 비전에 관심이 있어 공부하고 있는 학생입니다.   
 세상을 변화시킨 인공지능 프로그래머로 남는것이 목표입니다.   
 
-[![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa&show_icons=true&title_color=81F7F3&text_color=FFFFFF&bg_color=000000&hide=contribs,prs&hide_border=False&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV-JaeHa&hide_border=true&layout=compact&title_color=81F7F3&text_color=FFFFFF&bg_color=000000&hide=shell&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa&show_icons=true&title_color=81F7F3&text_color=FFFFFF&bg_color=000000&hide=prs,issues&hide_border=False&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV-JaeHa&hide_border=true&layout=compact&title_color=81F7F3&text_color=FFFFFF&bg_color=000000&hide=shell&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technology Stack   
 ![Python Badge](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
