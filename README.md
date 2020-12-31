@@ -9,7 +9,7 @@ I will remain as an artificial intelligence programmer who changed the world.
    
 안녕하세요! 여러분의 삶이 항상 행복하길 기원합니다.   
 저는 이재하 입니다. 한국에서 컴퓨터 비전에 관심이 있어 공부하고 있는 학생입니다.   
-세상을 변화시킨 인공지능 프로그래머로 남는것이 목표입니다.   
+세상을 변화시킨 인공지능 로 남는것이 목표입니다.   
 
 [![JaeHa's github stats](https://github-readme-stats.vercel.app/api?username=CV-JaeHa&show_icons=true&title_color=81F7F3&text_color=FFFFFF&bg_color=21262D&hide=contribs,issues&hide_border=False&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV-JaeHa&hide_border=true&layout=compact&title_color=81F7F3&text_color=FFFFFF&bg_color=21262D&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
