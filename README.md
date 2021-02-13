@@ -21,7 +21,7 @@ I will remain as an artificial intelligence programmer who changed the world.
 </a>
 ![OpenCV Badge](https://img.shields.io/badge/OpenCV-11B48A?style=flat-square&logo=OpenCV&color=0000FF&logoColor=white)
 </a> 
-![C](https://img.shields.io/badge/C,C++-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
+![C](https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&color=A8B9CC&logoColor=white)
 </a>
 
 
