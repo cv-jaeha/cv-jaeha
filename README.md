@@ -40,7 +40,7 @@ I will remain as an artificial intelligence programmer who changed the world.
 
 #### OS
 <img src = "macos.png" width="4%">　
-<img src = "ubuntu.png" width=4%">　
+<img src = "ubuntu.png" width="4%">　
 <img src = "windows.png" width="4%">　
 
 #### Virtual Environment
