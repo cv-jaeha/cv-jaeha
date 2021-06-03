@@ -1,6 +1,6 @@
 # 이재하(Lee, Jae Ha) - DSM 6기   
-<a href="github.com/CV-JaeHa"><img src = "github.png" width="4%"></a>　
-<a href="velog.io/@taki0412" target="_blank"><img src = "velog.jpg" width="4%"></a>　
+<a href="http://www.github.com/CV-JaeHa"><img src = "github.png" width="4%"></a>　
+<a href="http://www.velog.io/@taki0412" target="_blank"><img src = "velog.jpg" width="4%"></a>　
 
 ## IntroDuce
 ### Hello, World! 👋
@@ -16,10 +16,10 @@ I will remain as an artificial intelligence programmer who changed the world.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CV-JaeHa&theme=onedark_duo&hide_border=true&background=21262D&stroke=FFFFFF&currStreakNum=DDDDDD&sideNums=DDDDDD&ring=1C40DD&fire=4BDDD1)](https://git.io/streak-stats)
 
 ## Contact
-<img src = "gmail.png" width="4%">　
-<img src = "naver.png" width="4%">　
-<img src = "facebook.png" width="4%">　
-<img src = "instargram.png" width="4%">　
+<a href="mailto:taki041210@gmail.com"><img src = "gmail.png" width="4%"></a>　
+<a href="mailto:taki041210@naver.com"><img src = "naver.png" width="4%"></a>　
+<a href="http://www.facebook.com/JaeHa0412"><img src = "facebook.png" width="4%"></a>　
+<a href="http://www.instargram.com/jae_ha_0412"><img src = "instargram.png" width="4%"></a>　
 </br>
 
 <details>
@@ -27,22 +27,22 @@ I will remain as an artificial intelligence programmer who changed the world.
 <div markdown="1">
 
 ### Skill  
-<img src = "python.png" width="4%">　
-<img src = "pytorch.png" width="4%">　
-<img src = "opencv.png" width="4%">　
-<img src = "pandas.png" width="4%">
+<a href=""><img src = "python.png" width="4%"></a>　
+<a href=""><img src = "pytorch.png" width="4%"></a>　
+<a href=""><img src = "opencv.png" width="4%"></a>　
+<a href=""><img src = "pandas.png" width="4%"></a>
 
 ### Environment
 #### IDE
-<img src = "pycharm.png" width="4%">　
-<img src = "vscode.png" width="4%">　
-<img src = "jupyter.png" width="4%">
+<a href=""><img src = "pycharm.png" width="4%"></a>　
+<a href=""><img src = "vscode.png" width="4%"></a>　
+<a href=""><img src = "jupyter.png" width="4%"></a>
 
 #### OS
-<img src = "macos.png" width="4%">　
-<img src = "ubuntu.png" width="4%">　
-<img src = "windows.png" width="4%">　
+<a href=""><img src = "macos.png" width="4%"></a>　
+<a href=""><img src = "ubuntu.png" width="4%"></a>　
+<a href=""><img src = "windows.png" width="4%"></a>　
 
 #### Virtual Environment
-<img src = "docker.png" width="4%">　
-<img src = "anaconda.png" width="4%">　
+<a href=""><img src = "docker.png" width="4%"></a>　
+<a href=""><img src = "anaconda.png" width="4%"></a>　
