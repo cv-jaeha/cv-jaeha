@@ -27,22 +27,22 @@ I will remain as an artificial intelligence programmer who changed the world.
 <div markdown="1">
 
 ### Skill  
-<a href=""><img src = "python.png" width="4%"></a>　
-<a href=""><img src = "pytorch.png" width="4%"></a>　
-<a href=""><img src = "opencv.png" width="4%"></a>　
-<a href=""><img src = "pandas.png" width="4%"></a>
+<a href="javascript:void(0)"><img src = "python.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "pytorch.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "opencv.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "pandas.png" width="4%"></a>
 
 ### Environment
 #### IDE
-<a href=""><img src = "pycharm.png" width="4%"></a>　
-<a href=""><img src = "vscode.png" width="4%"></a>　
-<a href=""><img src = "jupyter.png" width="4%"></a>
+<a href="javascript:void(0)"><img src = "pycharm.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "vscode.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "jupyter.png" width="4%"></a>
 
 #### OS
-<a href=""><img src = "macos.png" width="4%"></a>　
-<a href=""><img src = "ubuntu.png" width="4%"></a>　
-<a href=""><img src = "windows.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "macos.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "ubuntu.png" width="4%"></a>　
+<a href="javascript:void(0)"><img src = "windows.png" width="4%"></a>　
 
 #### Virtual Environment
-<a href=""><img src = "docker.png" width="4%"></a>　
-<a href=""><img src = "anaconda.png" width="4%"></a>　
+<a href="javascript:void(0)">img src = "docker.png" width="4%"></a>　
+<a href="javascript:void(0)">img src = "anaconda.png" width="4%"></a>　
