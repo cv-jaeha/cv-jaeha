@@ -1,6 +1,6 @@
 # 이재하(Lee, Jae Ha) - DSM 6기   
-<a href="github.com/CV-JaeHa"><img src = "github.png" width="10%"></a>　
-<a href="velog.io/@taki0412" target="_blank"><img src = "velog.jpg" width="9%"></a>　
+<a href="github.com/CV-JaeHa"><img src = "github.png" width="2%"></a>　
+<a href="velog.io/@taki0412" target="_blank"><img src = "velog.jpg" width="2%"></a>　
 
 ## IntroDuce
 ### Hello, World! 👋
@@ -16,10 +16,10 @@ I will remain as an artificial intelligence programmer who changed the world.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CV-JaeHa&theme=onedark_duo&hide_border=true&background=21262D&stroke=FFFFFF&currStreakNum=DDDDDD&sideNums=DDDDDD&ring=1C40DD&fire=4BDDD1)](https://git.io/streak-stats)
 
 ## Contact
-<img src = "gmail.png" width="10%">　
-<img src = "naver.png" width="9%">　
-<img src = "facebook.png" width="9%">　
-<img src = "instargram.png" width="9%">　
+<img src = "gmail.png" width="2%">　
+<img src = "naver.png" width="1%">　
+<img src = "facebook.png" width="2%">　
+<img src = "instargram.png" width="1%">　
 </br>
 
 <details>
@@ -27,22 +27,22 @@ I will remain as an artificial intelligence programmer who changed the world.
 <div markdown="1">
 
 ### Skill  
-<img src = "python.png" width="6%">　
-<img src = "pytorch.png" width="5%">　
-<img src = "opencv.png" width="6%">　
-<img src = "pandas.png" width="5%">
+<img src = "python.png" width="1%">　
+<img src = "pytorch.png" width="1%">　
+<img src = "opencv.png" width="1%">　
+<img src = "pandas.png" width="1%">
 
 ### Environment
 #### IDE
-<img src = "pycharm.png" width="6%">　
-<img src = "vscode.png" width="6%">　
-<img src = "jupyter.png" width="7%">
+<img src = "pycharm.png" width="1%">　
+<img src = "vscode.png" width="1%">　
+<img src = "jupyter.png" width="1%">
 
 #### OS
-<img src = "macos.png" width="7%">　
-<img src = "ubuntu.png" width=6%">　
-<img src = "windows.png" width="5%">　
+<img src = "macos.png" width="1%">　
+<img src = "ubuntu.png" width=1%">　
+<img src = "windows.png" width="1%">　
 
 #### Virtual Environment
-<img src = "docker.png" width="6%">　
-<img src = "anaconda.png" width="5%">　
+<img src = "docker.png" width="1%">　
+<img src = "anaconda.png" width="1%">　
