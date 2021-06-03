@@ -13,7 +13,7 @@ I will remain as an artificial intelligence programmer who changed the world.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CV-JaeHa&theme=onedark_duo&hide_border=true&background=21262D&stroke=FFFFFF&currStreakNum=DDDDDD&sideNums=DDDDDD&ring=1C40DD&fire=4BDDD1)](https://git.io/streak-stats)  
 
-### Skill  
+## Skill  
 
 
-# Contact
+## Contact
