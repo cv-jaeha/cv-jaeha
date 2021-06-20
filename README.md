@@ -1,49 +1,136 @@
-# 이재하(Lee, Jae Ha) - DSM 6기   
-<a href="http://www.github.com/CV-JaeHa"><img src = "github.png" width="4%"></a>　
-<a href="http://velog.io/@taki0412" target="_blank"><img src = "velog.jpg" width="4%"></a>   
+# Remain In Your Memory!
 
-## IntroDuce
-### Hello, World! 👋
-May your life be filled with good things !   
-I am JaeHa Lee who is interseted in Computer Vision from South Korea.   
-I will remain as an artificial intelligence programmer who changed the world.   
-   
-   
-안녕하세요! 여러분의 삶이 항상 행복하길 기원합니다.  
-저는 이재하 입니다. 한국에서 컴퓨터 비전에 관심이 있어 공부하고 있는 학생입니다.   
-세상을 변화시킨 인공지능 엔지니어로 남는것이 목표입니다.  
+> 세상을 바꾼 인공지능 엔지니어로 사람들의 기억에 남겠습니다.
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CV-JaeHa&theme=onedark_duo&hide_border=true&background=21262D&stroke=FFFFFF&currStreakNum=DDDDDD&sideNums=DDDDDD&ring=1C40DD&fire=4BDDD1)](https://git.io/streak-stats)
---> 
+## Hello, World! 👋
 
-## Contact
-<a href="mailto:taki041210@gmail.com"><img src = "gmail.png" width="4%"></a>　
-<a href="mailto:taki041210@naver.com"><img src = "naver.png" width="4%"></a>　
-<a href="http://www.facebook.com/JaeHa0412"><img src = "facebook.png" width="4%"></a>　
-<a href="http://www.instargram.com/jae_ha_0412"><img src = "instargram.png" width="4%"></a>　
-</br>
+귀하의 삶이 항상 행복하길 기원합니다.
+대덕소프트웨어마이스터고등학교에 재학중인 이재하입니다.
+컴퓨터 비전에 관심있으며 가치가 있는 [**AI 개발자**]()가 될 것입니다.
+자유로운 영혼이지만 **무언가에 꽂히면 해낼때까지 노력**합니다.
+※ 궁금한 부분을 클릭하시면 관련 페이지로 이동합니다.
 
-<details>
-<summary>Use Developer Tool</summary>
-<div markdown="1">
+![Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa.jpg](Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa.jpg)
 
-### Skill  
-<a href="javascript:void(0)"><img src = "python.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "pytorch.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "opencv.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "pandas.png" width="4%"></a>
+[이재하 (Lee, Jae Ha)](Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa/%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A2%E1%84%92%E1%85%A1%20(Lee,%20Jae%20Ha)%2071d330e3d2504db4bcc8540ec394eabf.csv)
 
-### Environment
-#### IDE
-<a href="javascript:void(0)"><img src = "pycharm.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "vscode.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "jupyter.png" width="4%"></a>
+## 🔎  한눈에 보기
 
-#### OS
-<a href="javascript:void(0)"><img src = "macos.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "ubuntu.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "windows.png" width="4%"></a>　
+---
 
-#### Virtual Environment
-<a href="javascript:void(0)"><img src = "docker.png" width="4%"></a>　
-<a href="javascript:void(0)"><img src = "anaconda.png" width="4%"></a>
+⚙️  PROJECT
+
+- [Mask Dectection AI](Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa/Port%20Folio%206561d1d271fe45eb87ae309744455a16/Mask%20Detection%20AI%2034f71fcf315f4006a7ddfa1379999994.md)
+- [MoDeep AI TextBook](Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa/Port%20Folio%206561d1d271fe45eb87ae309744455a16/%E1%84%86%E1%85%A9%E1%84%83%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%B5%20%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A7%E1%84%8C%E1%85%AE%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC%20%E1%84%80%E1%85%AD%E1%84%80%E1%85%AA%E1%84%89%E1%85%A5%2004751806056647d09b9495c1a5ec7e72.md)
+
+👁️  Prize & Activity
+
+- 교내 자기소개서 쓰기 대회 (은상)
+- 데이터 크리에이터 캠프 본선 (수료)
+- 2021 국제 인공지능 대전 세미나
+- [대전시 빅데이터 분석 경진대회](Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa/Port%20Folio%206561d1d271fe45eb87ae309744455a16/%E1%84%83%E1%85%A1%E1%84%80%E1%85%A1%E1%87%80%E1%84%8B%E1%85%B5%20%E1%84%89%E1%85%B3%E1%84%86%E1%85%A1%E1%84%90%E1%85%B3%E1%84%89%E1%85%B5%E1%84%90%E1%85%B5%200e361f9ee66c415a91f960ed150b2327.md)
+
+---
+
+👊  JaeHa is this person
+
+- 리더쉽과 책임감
+
+    학년마다 반장, 부반장을 놓친적이 없으며
+    모딥의 부장으로써 신입생들의 커리큘럼 개발,
+    2학년들의 자기개발을 위해 대회나 프로젝트
+    등을 주도 하였습니다.
+
+- 꽃히면 끝을 본다
+
+    분야는 상관없습니다.
+    어렸을 때부터 내가 꼭 이루겠다 생각하면,
+    꼭 끝을 맺어 내가 원하는 바를 이뤘습니다.
+
+🛠️ Stack
+
+- Language
+    - C
+    - Python
+- Library
+    - Pytorch
+    - OpenCV
+    - Pandas
+    - Matplotlib
+    - Numpy
+
+## 🤖  AI 개발자
+
+---
+
+AI는 **인간을 편리하게 해주는 도구**가 아닌 **또 다른 인간**이라고 생각합니다.
+또 하나의 사람을 만드는 것은 나에게 언제나 설렘을 가져다 주며 이 설렘은 더 좋은 성과를 가져다 줍니다.
+독립적으로 일하는 것이 편할때도 있지만, 팀원들과 함께 합을 맞춰가며 협업을 할때 더 행복함을 느낍니다.
+
+[Port Folio](Remain%20In%20Your%20Memory!%20dbb345cc748b481797b860b4528829aa/Port%20Folio%206561d1d271fe45eb87ae309744455a16.csv)
+
+## 🗒️ 세미나 / 컨퍼런스
+
+---
+
+[세미나](https://velog.io/@taki0412/series/%EC%84%B8%EB%AF%B8%EB%82%98)
+
+## 🏫  학교
+
+---
+
+✏️ 성환초등학교 전학;  2011~2014
+
+🎒 환서초등학교 졸업;  2014~2016
+
+📝 천안백석중학교 졸업;  2017~2019
+
+💻 대덕소프트웨마이스터고등학교 재학;  2020~
+
+## 💪  이런일을 할 수 있어요
+
+---
+
+🔡 Language
+
+- C
+- Python
+
+---
+
+⌚ Library
+
+- Pytorch
+- OpenCV
+- Pandas
+- Matplotlib
+- Numpy
+
+## 🎶 그 외 특별한 Activity
+
+---
+
+- 대덕소프트웨어마이스터고등학교 축구부
+
+    점심시간, 저녁시간, 창제 동아리를 이용해서
+    1학년때부터 꾸준히 축구를 하였습니다.
+
+- Music
+
+    음악을 좋아합니다.
+    장르 구분 없이 발라드, 인디밴드, 힙합, 팝까지 음악 그자체를 좋아합니다.
+    악기는 드럼을 다룰 줄 알고 노래를 잘 부르고 싶어 한때 열심히 노력하셨습니다. 😀
+
+[▲ 맨 위로 올라가기]()
+
+---
+
+### ♥️ Contact
+
+📨  [taki041210@naver.com](mailto:taki041210@naver.com)
+
+👔  [FaceBook](http://facebook.com/jaeha0412) / [Instargram](http://instargram.com/jaeha0412) / [GitHub](http://github.com/cv-jaeha) / [Velog](http://velog.io/@taki0412) / +82) 10-2817-1060
+
+**^  여기서 저를 찾으실 수 있습니다. 연락주세요!**
+
+![https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://www.notion.so/taki0412/Remain-In-Your-Memory-f7246167a9b84d2f8cf576ccd8ca55ca](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://www.notion.so/taki0412/Remain-In-Your-Memory-f7246167a9b84d2f8cf576ccd8ca55ca)
