@@ -1,4 +1,4 @@
-!-- # 이재하(Lee, Jae Ha) - DSM 6기   
+# 이재하(Lee, Jae Ha) - DSM 6기   
 <a href="http://www.github.com/CV-JaeHa"><img src = "github.png" width="4%"></a>　
 <a href="http://velog.io/@taki0412" target="_blank"><img src = "velog.jpg" width="4%"></a>   
 
