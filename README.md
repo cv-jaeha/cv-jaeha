@@ -1,8 +1,7 @@
 # 이재하(Lee, Jae Ha) - DSM 6기  
 [![Github](http://img.shields.io/badge/CV_JaeHa-black?style=flat-square&logo=github&link=https://www.github.com/CV-JaeHa)](https://www.github.com/CV-JaeHa)</a>
-[![Velog](http://img.shields.io/badge/taki0412-25C183?style=flat-square&logo=Vector Logo Zone&link=http://www.portfolio-jaeha.kro.kr)](http://velog.io/@taki0412)</a>
+[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=taki0412)](https://velog.io/@taki0412)
 [![PortFolio](http://img.shields.io/badge/PortFolio-black?style=flat-square&logo=notion&link=http://www.portfolio-jaeha.kro.kr)](http://portfolio-jaeha.kro.kr)  
-<!-- [![Velog](https://velog-readme-stats.vercel.app/api/badge?name=taki0412)](https://velog.io/@taki0412)-->
 
 ## Introduce
 ### Hello, World! 👋
