@@ -4,7 +4,7 @@
 <a href="http://portfolio-jaeha.kro.kr"><img src="https://img.shields.io/badge/PortFolio-black?style=for-the-badge&logo=notion&logoColor=white"></a> <!-- Portfolio(Notion) -->
 
 ## Introduce
-### Hello, World! 👋
+### Remain In Your Memory! 👋
 May your life be filled with good things !  
 I am JaeHa Lee who is interseted in Computer Vision from South Korea.  
 I will remain as an artificial intelligence programmer who changed the world.
