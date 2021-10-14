@@ -1,6 +1,6 @@
 # 이재하(Lee, Jae Ha) - DSM 6기  
 <a href="https://www.github.com/CV-JaeHa"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"></a> <!-- Github -->
-[![Velog](https://velog-readme-stats.vercel.app/api/badge?name=taki0412)](https://velog.io/@taki0412)</a>
+<img src="https://img.shields.io/badge/Velog-4FC08D?style=for-the-badge&logo=Vector Logo Zone&logoColor=white"> <!-- Velog -->
 <a href="http://portfolio-jaeha.kro.kr"><img src="https://img.shields.io/badge/PortFolio-black?style=for-the-badge&logo=notion&logoColor=white"></a> <!-- Portfolio(Notion) -->
 
 ## Introduce
