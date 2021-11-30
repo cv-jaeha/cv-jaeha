@@ -2,7 +2,6 @@
 <a href="https://www.github.com/CV-JaeHa"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"></a> <!-- Github -->
 <a href="http://portfolio-jaeha.kro.kr"><img src="https://img.shields.io/badge/PortFolio-5468FF?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"></a> <!-- Portfolio(Notion) -->
 <a href="https://velog.io/@taki0412"><img src="https://img.shields.io/badge/Velog-4FC08D?style=for-the-badge&logo=Vector Logo Zone&logoColor=white"> <!-- Velog -->
-
 </br></br>
   
 ## 🎤 </a> Introduce
