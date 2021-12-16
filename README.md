@@ -8,7 +8,7 @@
 ### I'll Remain In Your Memory! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Wish your life always happiness !  
 I'm JaeHa Lee. Interested in computer vision and recommendation system.  
-My goal is to be remembered as an artificial intelligence developer who changed the world..
+My goal is to be remembered as an artificial intelligence developer who changed the world.
 
 안녕하세요! 여러분의 삶이 항상 행복하길 기원합니다.  
 저는 이재하 입니다. 한국에서 컴퓨터 비전과 추천 시스템에 관심이 있어 공부하고 있는 학생입니다.  
