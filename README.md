@@ -1,11 +1,10 @@
-# 🦫 </a> 이재하(Lee, Jae Ha)
+# 🦫&nbsp;&nbsp;이재하(Lee, Jae Ha)
 <a href="https://www.github.com/CV-JaeHa"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"></a> <!-- Github -->
 <a href="http://portfolio-jaeha.kro.kr"><img src="https://img.shields.io/badge/PortFolio-5468FF?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"></a> <!-- Portfolio(Notion) -->
 <a href="https://velog.io/@taki0412"><img src="https://img.shields.io/badge/Velog-4FC08D?style=for-the-badge&logo=Vimeo&logoColor=white"> <!-- Velog -->
 </br></br>
   
-## 🎤 </a> Introduce
-### I'll Remain In Your Memory! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&nbsp;&nbsp;I'll Remain In Your Memory!
 Wish your life always happiness !  
 I'm JaeHa Lee. Interested in computer vision and recommendation system.  
 My goal is to be remembered as an artificial intelligence developer who changed the world.
@@ -15,17 +14,17 @@ My goal is to be remembered as an artificial intelligence developer who changed 
 세상을 변화시킨 인공지능 개발자로 기억되는 것이 목표입니다.
 </br></br>
 
-## 🔨 </a> Development Tools
+## 🔨&nbsp;&nbsp;Development Tools
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-### ⚒️ </a> Library
+### ⚒️&nbsp;&nbsp;Library
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=openCV&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-### 🛠️ </a> Tools
+### 🛠️&nbsp;&nbsp;Tools
 <img src="https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">  <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </br></br>
 
-## 📝 Contact
+## 📝&nbsp;&nbsp;Contact
 <a href="mailto:taki041210@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 <a href="matilto:taki041210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.facebook.com/JaeHa0412/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
