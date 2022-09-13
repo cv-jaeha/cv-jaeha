@@ -17,8 +17,8 @@
 [<img align="left" alt="Instagram" src="./img/instagram-light.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/jae_ha_0412#gh-light-mode-only)
 [<img align="left" alt="Instagram" src="./img/instagram-dark.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/jae_ha_0412#gh-dark-mode-only)
 
-[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:taki041210@naver.com#gh-light-mode-only)
-[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:taki041210@naver.com#gh-dark-mode-only)
+[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:taki041210@naver.com#gh-dark-mode-only)
+[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:taki041210@naver.com#gh-light-mode-only)
 <br>
 
 ### ⚙️&nbsp;&nbsp;Languages and Tools:
