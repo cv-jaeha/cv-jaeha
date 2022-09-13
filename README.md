@@ -8,19 +8,17 @@
 
 ### ☎️&nbsp;&nbsp;Connect with me:
 
-[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://portfolio-jaeha.vercel.app)
-[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://portfolio-jaeha.vercel.app)
+[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://portfolio-jaeha.vercel.app#gh-light-mode-only)
+[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://portfolio-jaeha.vercel.app#gh-dark-mode-only)
 
-[<img align="left" alt="LinkedIn" src="./img/linkedin-light.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/taki0412)
-[<img align="left" alt="LinkedIn" src="./img/linkedin-dark.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/taki0412)
+[<img align="left" alt="LinkedIn" src="./img/linkedin-light.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/taki0412#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" src="./img/linkedin-dark.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/taki0412#gh-dark-mode-only)
 
-[<img align="left" alt="Instagram" src="./img/instagram-light.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/jae_ha_0412)
-[<img align="left" alt="Instagram" src="./img/instagram-dark.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/jae_ha_0412)
+[<img align="left" alt="Instagram" src="./img/instagram-light.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/jae_ha_0412#gh-light-mode-only)
+[<img align="left" alt="Instagram" src="./img/instagram-dark.svg" height="26px" style="padding-right:10px;" />](https://instagram.com/jae_ha_0412#gh-dark-mode-only)
 
-<a href="mailto:taki041210@naver.com" target="_blank"> 
-    <img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;"> </a>
-<a href="mailto:taki041210@naver.com" target="_blank"> 
-    <img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;"> </a>
+[<img align="left" alt="Mail" src="./img/email-light.svg" height="26px" style="padding-right:10px;">](mailto:taki041210@naver.com#gh-light-mode-only)
+[<img align="left" alt="Mail" src="./img/email-dark.svg" height="26px" style="padding-right:10px;">](mailto:taki041210@naver.com#gh-dark-mode-only)
 <br>
 
 ### ⚙️&nbsp;&nbsp;Languages and Tools:
