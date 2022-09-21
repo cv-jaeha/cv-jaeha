@@ -58,6 +58,7 @@
 ## 📕&nbsp;&nbsp;Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [고졸 AI 개발자 이력서&포트폴리오 뿌셔보기](https://velog.io/@taki0412/jaeha-portfolio) : High school graduate AI developer resume & portfolio writing experience article.
 - [VideoINR 논문 리뷰](https://velog.io/@taki0412/VideoINR-paper-review) : VideoINR Paper Review
 - [2022 AI EXPO 운영작 CLASSBER 소개](https://velog.io/@taki0412/CLASSBER-%EC%86%8C%EA%B0%9C) : 2022 AI EXPO KOREA Retrospective of booth operation.
 - [구글 Colab 서버를 로컬에서 사용하기](https://velog.io/@taki0412/%EA%B5%AC%EA%B8%80-Colab-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0) : Using Google Colab in a Local Environment.
