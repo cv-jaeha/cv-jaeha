@@ -49,7 +49,7 @@
 - [the-modeep](https://github.com/cv-jaeha) : TOGETHER SMART CITY! Public data analysis for smart cities that live well together.
 <!-- Project:END -->
 
-➡️ [more projects...][github]
+➡️ [more projects...](https://github.com/cv-jaeha?tab=repositories)
 
 ---
 
