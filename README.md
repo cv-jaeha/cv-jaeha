@@ -1,4 +1,4 @@
-# 🦫&nbsp;&nbsp;이재하(Lee, Jae Ha) MLOps Engineer
+# 🦫&nbsp;&nbsp;이재하(Lee, Jae Ha) AI 개발자
 
 - 🔭 Check out my Portfolio!: [portfolio-jaeha.vercel.app][website]
 - 🌱 I’m currently learning MLOps 🤣
