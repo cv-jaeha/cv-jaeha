@@ -3,7 +3,7 @@
 - 🔭 Check out my Portfolio!: [portfolio-jaeha.vercel.app][website]
 - 🌱 I’m currently learning MLOps 🤣
 - 🌈 It contributes to development based on a wide spectrum.
-- 🥅 2022 Goals: Learn more about kubernetes.
+- 🥅 2023 Goals: Grow up, Work well.
 - ⚡ Fun fact: I love to play games and enjoy soccer and music.
 
 ### Connect with me:
