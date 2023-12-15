@@ -30,9 +30,9 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-[<img align="left" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="26px" style="padding-right:10px;" />](https://github.com/cv-jaeha#gh-dark-mode-only)
+[<img align="left" alt="GitHub" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="26px" style="padding-right:10px;" />](https://github.com/ops-jaeha#gh-dark-mode-only)
 
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/cv-jaeha#gh-light-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/ops-jaeha#gh-light-mode-only)
 
 <br />
 <br />
@@ -45,8 +45,8 @@
 - [duckie-recommender-system](https://github.com/sungbinland/duckie-recommender-system) : Duckie is a community where you can be a fan according to your personal recommendation.
 - [CLASSBER](https://github.com/modeep/international-ai-competition-2022/tree/main/classber) : Developed a camera that follows a specific object using the M2Det Model.
 - [Alchemist](https://github.com/dsm-alchemist/alchemist-ai-flask-v1) : AI API to determine if the user is sleeping or studying.
-- [wheat-head-detection](https://github.com/cv-jaeha/wheat-head-detection) : Implement FastRCNN to solve the problem of heat head detection.
-- [the-modeep](https://github.com/cv-jaeha) : TOGETHER SMART CITY! Public data analysis for smart cities that live well together.
+- [wheat-head-detection](https://github.com/ops-jaeha/wheat-head-detection) : Implement FastRCNN to solve the problem of heat head detection.
+- [the-modeep](https://github.com/ops-jaeha) : TOGETHER SMART CITY! Public data analysis for smart cities that live well together.
 <!-- Project:END -->
 
 ---
@@ -65,7 +65,8 @@
 ---
 
 [website]: https://portfolio-jaeha.vercel.app
-[github]: https://github.com/cv-jaeha
+[github]: https://github.com/ops-jaeha
 [instagram]: https://instagram.com/jae_ha_0412
 [linkedin]: https://linkedin.com/in/taki0412
 [velog]: https://velog.io/@taki0412
+`
