@@ -69,4 +69,3 @@
 [instagram]: https://instagram.com/jae_ha_0412
 [linkedin]: https://linkedin.com/in/taki0412
 [velog]: https://velog.io/@taki0412
-`
