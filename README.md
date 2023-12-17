@@ -45,6 +45,6 @@
 
 [website]: https://portfolio-jaeha.vercel.app
 [github]: https://github.com/ops-jaeha
-[instagram]: https://instagram.com/jae_ha_0412
+[instagram]: https://instagram.com/taki._.0412
 [linkedin]: https://linkedin.com/in/taki0412
 [githubio]: https://ops-jaeha.github.io
