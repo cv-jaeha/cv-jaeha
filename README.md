@@ -1,6 +1,6 @@
 ![image](https://github.com/ops-jaeha/ops-jaeha/assets/63505712/6f448c12-d050-4ea7-a666-2033f8041093)# 🐿️ 이재하(Lee, Jae Ha) Dev/MLOps Engineer
 
-- 🔭 Check out my Portfolio!: [portfolio-jaeha.vercel.app][website]
+- 🔭 Check out my Portfolio!: 링크 업데이트 예정
 - 🌱 I’m currently learning MLOps 🤣
 - 🌈 It contributes to development based on a wide spectrum.
 - 🥅 2023 Goals: Grow up, Work well.
