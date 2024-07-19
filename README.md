@@ -1,6 +1,6 @@
 # 🐿️ 이재하(Lee, Jae Ha) Dev/MLOps Engineer
 
-- 🔭 Check out my Portfolio!: 링크 업데이트 예정
+- 🔭 Check out my Portfolio!: [notion portfolio](https://taki0412.notion.site/J-Curve-Ops-Engineer-04c3fb121fc44a958e7566e23c95e7ca?pvs=74)
 - 🌱 I’m currently learning MLOps 🤣
 - 🌈 It contributes to development based on a wide spectrum.
 - 🥅 2023 Goals: Grow up, Work well.
@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://ops-jaeha.github.io#gh-light-mode-only)
-[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://ops-jaeha.github.io#gh-dark-mode-only)
+[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />](https://taki0412.notion.site/J-Curve-Ops-Engineer-04c3fb121fc44a958e7566e23c95e7ca?pvs=74#gh-light-mode-only)
+[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />](https://taki0412.notion.site/J-Curve-Ops-Engineer-04c3fb121fc44a958e7566e23c95e7ca?pvs=74#gh-dark-mode-only)
 
 [<img align="left" alt="LinkedIn" src="./img/linkedin-light.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/taki0412#gh-light-mode-only)
 [<img align="left" alt="LinkedIn" src="./img/linkedin-dark.svg" height="26px" style="padding-right:10px;" />](https://linkedin.com/in/taki0412#gh-dark-mode-only)
