@@ -1,6 +1,6 @@
 # 🐿️ 이재하(Lee, Jae Ha) Dev/MLOps Engineer
 
-- - 🌱 I’m currently learning CKA 🤣
+- 🌱 I’m currently learning CKA 🤣
 - 🌈 It contributes to development based on a wide spectrum.
 - 🥅 2024 Goals: Get CKA!
 
