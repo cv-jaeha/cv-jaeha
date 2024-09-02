@@ -1,6 +1,5 @@
 # 🐿️ 이재하(Lee, Jae Ha) Dev/MLOps Engineer
 
-- 🔭 Check out my Portfolio!: [notion portfolio](https://www.notion.so/taki0412/J-Curve-Ops-Engineer-c016f02cb9394d1a9a6db286a1778ee5?pvs=4)
 - - 🌱 I’m currently learning CKA 🤣
 - 🌈 It contributes to development based on a wide spectrum.
 - 🥅 2024 Goals: Get CKA!
