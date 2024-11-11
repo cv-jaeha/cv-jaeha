@@ -9,8 +9,8 @@
 
 ## 💻&nbsp;&nbsp; Project
 
-- [KServe](https://github.com/ops-jaeha/kserve)
-- [jaehai-webpage](https://github.com/ops-jaeha/jaehai-webpage)
+- [KServe](https://github.com/ops-jaeha/kserve) : Fix KServe Agent Downloading GCS OOM Issues
+- [jaehai-webpage](https://github.com/ops-jaeha/jaehai-webpage) : My Post and Resume Site
 
 ---
 

@@ -15,4 +15,4 @@ jobs:
       - name: Pull latest changes
         run: |
           git pull origin main
-        working-directory: ~/projects/ops-jaeha
+        working-directory: ../../../ops-jaeha
