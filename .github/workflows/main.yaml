@@ -1,0 +1,20 @@
+name: Deploy
+
+on:
+  # branch main에 git이 push 될 때
+  push:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    # runner에서 등록해준 사용자 태그 지정
+    # 태그는 리스트 안에 들어가있는 모든 태그가 성립해야 진행됨
+    runs-on: [self-hosted]
+    steps:
+      - name: Create text file
+        run: touch ~/projects/ops-jaeha/deploy.txt
+  deploy_2:
+    runs-on: [self-hosted, Personal-Server]
+    steps:
+      - name: Create text file
+        run: touch ~/projects/ops-jaeha/deploy_2.txt
