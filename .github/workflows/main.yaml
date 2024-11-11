@@ -1,18 +1,18 @@
-name: Deploy
+# name: Deploy
 
-on:
-  # main 브랜치에 push될 때 실행
-  push:
-    branches: ["main"]
+# on:
+#   # main 브랜치에 push될 때 실행
+#   push:
+#     branches: ["main"]
 
-jobs:
-  deploy:
-    runs-on: self-hosted # self-hosted runner 설정
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
+# jobs:
+#   deploy:
+#     runs-on: self-hosted # self-hosted runner 설정
+#     steps:
+#       - name: Check out repository
+#         uses: actions/checkout@v3
 
-      - name: Pull latest changes
-        run: |
-          git pull origin main
-        working-directory: ../../ops-jaeha
+#       - name: Pull latest changes
+#         run: |
+#           git pull origin main
+#         working-directory: ../../ops-jaeha
